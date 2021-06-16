@@ -1,0 +1,111 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+}
+
+#btn_1{
+	width: 50px;
+	margin-top: 30px; 
+}
+#btn_2{
+	width: 50px;
+	margin-left: 85px; 
+	margin-top: -63px; 
+}
+#btn_3{
+	width: 50px;
+	margin-left: 170px; 
+	margin-top: -110px; 
+}
+#btn_4{
+	width: 50px;
+	margin-top: -33px; 
+}
+#btn_5{
+	width: 50px;
+	margin-left: 85px; 
+	margin-top: -80px; 
+}
+#btn_6{
+	width: 50px;
+	margin-left: 170px; 
+	margin-top: -127px; 
+}
+
+#btn_7{
+	width: 50px;
+	margin-top: -50px; 
+}
+#btn_8{
+	width: 50px;
+	margin-left: 85px;
+	margin-top: -97px; 
+}
+#btn_9{
+	width: 50px;
+	margin-left: 170px;
+	margin-top: -145px; 
+}
+#btn_0{
+	width: 50px;
+	margin-left: 85px;
+	margin-top: -67px;  
+}
+
+#btn_sqrt{
+	width: 50px;
+	margin-top: -39px; 
+	margin-left: -135px;
+	position: absolute;
+}
+
+#btn_calc{
+	width: 50px;
+	margin-top: -39px;
+	margin-left: 35px;
+	position: absolute;
+}
+
+#btn_sum{
+	width: 50px;
+	margin-top: -166px; 
+	margin-left: 125px;
+	position: absolute;
+}
+#btn_def{
+	width: 50px;
+	margin-top: -38px;
+	margin-left: 127px;
+	position:absolute;
+}
+#btn_X{
+	width: 50px;
+	margin-top: -230px;
+	margin-left: 125px;
+	position:absolute;
+	
+}
+#btn_Y{
+	width: 50px;
+	margin-top: -102px;
+	margin-left: 125px;
+	position:absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
